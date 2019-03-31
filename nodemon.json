@@ -1,0 +1,6 @@
+{
+    "env": {
+        "MONGO_PASSWORD": "Your Password Here",
+        "JWT_KEY": "secret"
+    }
+}
